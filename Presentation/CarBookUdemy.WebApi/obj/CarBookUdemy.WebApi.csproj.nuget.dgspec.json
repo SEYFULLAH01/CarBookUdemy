@@ -26,7 +26,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj": {
+                "projectPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
