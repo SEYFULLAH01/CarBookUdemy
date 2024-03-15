@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj": {}
+    "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj": {
+    "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj",
         "projectName": "CarBookUdemy.Domain",
-        "projectPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj",
+        "projectPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj",
         "packagesPath": "C:\\Users\\SEYFULLAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\obj\\",
+        "outputPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEYFULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
