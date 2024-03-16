@@ -1,4 +1,5 @@
 ﻿using CarBookUdemy.Application.Interfaces;
+using CarBookUdemy.Domain.Entites;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

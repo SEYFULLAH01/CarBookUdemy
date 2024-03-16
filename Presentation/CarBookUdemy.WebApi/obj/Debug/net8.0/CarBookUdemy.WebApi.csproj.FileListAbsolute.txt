@@ -61,7 +61,6 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\Ca
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.AssemblyInfoInputs.cache
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.AssemblyInfo.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.sourcelink.json
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\staticwebassets.build.json
@@ -78,3 +77,5 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\Ca
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.pdb
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.genruntimeconfig.cache
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\ref\CarBookUdemy.WebApi.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\bin\Debug\net8.0\CarBookUdemy.Application.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\bin\Debug\net8.0\CarBookUdemy.Application.pdb

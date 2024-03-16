@@ -16,3 +16,5 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.pdb
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.genruntimeconfig.cache
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\ref\UdemyCarBook.Persistence.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\CarBookUdemy.Application.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\CarBookUdemy.Application.pdb
