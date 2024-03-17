@@ -3,48 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31AA2717-7FD1-4CE1-8F3B-E514E065377E}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AA2717-7FD1-4CE1-8F3B-E514E065377E}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|solutionrelative:infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\abouthandlers\\getaboutbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\abouthandlers\\getaboutbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\commands\\bannercommands\\removebannercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\commands\\bannercommands\\removebannercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071F2C87-F6CC-4CB9-9B88-62BA18EDB3C3}|Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.domain\\entites\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071F2C87-F6CC-4CB9-9B88-62BA18EDB3C3}|Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj|solutionrelative:core\\carbookudemy.domain\\entites\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\updatebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\updatebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\updatebrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\updatebrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071F2C87-F6CC-4CB9-9B88-62BA18EDB3C3}|Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.domain\\entites\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071F2C87-F6CC-4CB9-9B88-62BA18EDB3C3}|Core\\CarBookUdemy.Domain\\CarBookUdemy.Domain.csproj|solutionrelative:core\\carbookudemy.domain\\entites\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\updatebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\updatebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\removebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\removebrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\createbannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\createbannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\getbrandbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\getbrandbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\getbannerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\getbannerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\getbrandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\brandhandlers\\getbrandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\results\\brandresult\\getbrandbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\results\\brandresult\\getbrandbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\getbannerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\bannerhandlers\\getbannerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\handlers\\abouthandlers\\removeaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\handlers\\abouthandlers\\removeaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\removebrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\commands\\brandcommands\\removebrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\queries\\brandqueries\\getbrandbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\queries\\brandqueries\\getbrandbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\features\\cqrs\\results\\brandresult\\getbrandqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\features\\cqrs\\results\\brandresult\\getbrandqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,8 +90,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:18:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:06:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:05:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateBannerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:58:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBrandCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\UpdateBrandCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\UpdateBrandCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\UpdateBrandCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\UpdateBrandCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:58:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoveBannerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:57:35.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveBrandCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\RemoveBrandCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\RemoveBrandCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\RemoveBrandCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\RemoveBrandCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:57:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBannerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\CreateBannerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\CreateBannerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\CreateBannerCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\CreateBannerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:56:33.096Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -83,144 +223,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetAboutByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutByIdQueryHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAArwBYAAAArAAAA",
+              "Title": "CreateBrandCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\CreateBrandCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\CreateBrandCommandHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\CreateBrandCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\CreateBrandCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T22:15:04.119Z",
+              "WhenOpened": "2024-03-17T19:56:43.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Banner.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\Entites\\Banner.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Domain\\Entites\\Banner.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\Entites\\Banner.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Domain\\Entites\\Banner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "DocumentIndex": 12,
+              "Title": "GetBrandByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T22:01:24.965Z",
+              "WhenOpened": "2024-03-17T19:55:28.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "GetBannerQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerQueryHandler.cs",
               "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerQueryHandler.cs",
               "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerQueryHandler.cs",
               "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:58:15.936Z",
+              "WhenOpened": "2024-03-17T19:49:00.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAjAAAA",
+              "DocumentIndex": 13,
+              "Title": "GetBannerByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\GetBannerByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:56:29.27Z",
+              "WhenOpened": "2024-03-17T19:48:40.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAAAtAAAA",
+              "DocumentIndex": 14,
+              "Title": "GetBrandQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandQueryHandler.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BrandHandlers\\GetBrandQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:54:02.91Z",
+              "WhenOpened": "2024-03-17T19:48:27.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "DocumentIndex": 17,
+              "Title": "RemoveBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\RemoveBrandCommand.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\RemoveBrandCommand.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\RemoveBrandCommand.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\RemoveBrandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:51:48.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RemoveBannerCommand.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BannerCommands\\RemoveBannerCommand.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BannerCommands\\RemoveBannerCommand.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BannerCommands\\RemoveBannerCommand.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BannerCommands\\RemoveBannerCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:50:21.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RemoveAboutCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:48:53.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RemoveBannerCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:48:31.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwCQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:32:26.858Z",
+              "WhenOpened": "2024-03-17T19:46:53.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BannerController.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\BannerController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\BannerController.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\BannerController.cs",
-              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\BannerController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDkAAAAJAAAA",
+              "Title": "UpdateBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\UpdateBrandCommand.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\UpdateBrandCommand.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\UpdateBrandCommand.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\UpdateBrandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:32:19.014Z",
+              "WhenOpened": "2024-03-17T19:46:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\CreateBrandCommand.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\CreateBrandCommand.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\CreateBrandCommand.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Commands\\BrandCommands\\CreateBrandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:46:27.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBrandByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Queries\\BrandQueries\\GetBrandByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Queries\\BrandQueries\\GetBrandByIdQuery.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Queries\\BrandQueries\\GetBrandByIdQuery.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Queries\\BrandQueries\\GetBrandByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:45:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBrandByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandByIdQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:44:50.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\Entites\\Brand.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Domain\\Entites\\Brand.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Domain\\Entites\\Brand.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Domain\\Entites\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:44:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetBrandQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandQueryResult.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandQueryResult.cs",
+              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Features\\CQRS\\Results\\BrandResult\\GetBrandQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:43:58.06Z",
               "EditorCaption": ""
             }
           ]

@@ -79,3 +79,4 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\Ca
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\ref\CarBookUdemy.WebApi.dll
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\bin\Debug\net8.0\CarBookUdemy.Application.dll
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\bin\Debug\net8.0\CarBookUdemy.Application.pdb
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Presentation\CarBookUdemy.WebApi\obj\Debug\net8.0\CarBookUdemy.WebApi.MvcApplicationPartsAssemblyInfo.cs

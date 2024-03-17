@@ -18,7 +18,11 @@ namespace CarBookUdemy.WebApi.Controllers
         private readonly UpdateBannerCommandHandler _updateBannerCommandHandler;
         private readonly RemoveBannerCommandHandler _removeBannerCommandHandler;
 
-        public BannerController(CreateBannerCommandHandler creatBannerCommandHandler, GetBannerByIdQueryHandler getBannerByIdQueryHandler, GetBannerQueryHandler getBannerQueryHandler, UpdateBannerCommandHandler updateBannerCommandHandler, RemoveBannerCommandHandler removeBannerCommandHandler)
+        public BannerController(CreateBannerCommandHandler creatBannerCommandHandler,
+            GetBannerByIdQueryHandler getBannerByIdQueryHandler, 
+            GetBannerQueryHandler getBannerQueryHandler, 
+            UpdateBannerCommandHandler updateBannerCommandHandler,
+            RemoveBannerCommandHandler removeBannerCommandHandler)
         {
             _creatBannerCommandHandler = creatBannerCommandHandler;
             _getBannerByIdQueryHandler = getBannerByIdQueryHandler;
@@ -27,30 +31,34 @@ namespace CarBookUdemy.WebApi.Controllers
             _removeBannerCommandHandler = removeBannerCommandHandler;
         }
         [HttpGet]
-        public async Task<IActionResult> BannerList()
+        public IActionResult BannerList()
         {
             var values = _getBannerQueryHandler.Handle();
             return Ok(values);
         }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetBanner(int id)
         {
             var value = await _getBannerByIdQueryHandler.Handle(new GetBannerByIdQuery(id));
             return Ok(value);
         }
+
         [HttpPost]
-        public async Task<IActionResult> CreateResult(CreateBannerCommand command)
+        public async Task<IActionResult> CreateBanner(CreateBannerCommand command)
         {
             await _creatBannerCommandHandler.Handle(command);
             return Ok("Bilgi Eklendi");
         }
-        [HttpDelete]
+
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveBanner(int id)
         {
             await _removeBannerCommandHandler.Handle(new RemoveBannerCommand(id));
             return Ok("Bilgi Silindi");
         }
-        [HttpPost]
+
+        [HttpPut]
         public async Task<IActionResult> UpdateBanner(UpdateBannerCommand command)
         {
             await _updateBannerCommandHandler.Handle(command);
