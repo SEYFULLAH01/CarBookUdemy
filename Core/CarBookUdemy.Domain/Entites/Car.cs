@@ -8,7 +8,7 @@ namespace CarBookUdemy.Domain.Entites
 {
     public class Car
     {
-        public string CarId { get; set; }
+        public int CarId { get; set; }
         public int BrandId { get; set; }
         public Brand Brand { get; set; }
         public string Model { get; set; }
