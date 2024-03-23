@@ -25,12 +25,12 @@ namespace UdemyCarBook.Persistence.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<List<T>> GeAllAsync()
+        public async Task<List<T>> GetAllAsync()
         {
             return await _context.Set<T>().ToListAsync();
         }
 
-        public async Task<T> GeByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id)
         {
             return await _context.Set<T>().FindAsync(id);
         }

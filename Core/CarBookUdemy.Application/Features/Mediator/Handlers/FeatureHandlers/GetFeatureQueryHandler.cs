@@ -22,7 +22,7 @@ namespace CarBookUdemy.Application.Features.Mediator.Handlers.FeatureHandlers
 
         public async Task<List<GetFeatureQueryResult>> Handle(GetFeatureQuery request, CancellationToken cancellationToken)
         {
-            var values = await _featureRepository.GeAllAsync();
+            var values = await _featureRepository.GetAllAsync();
             return values.Select(x => new GetFeatureQueryResult
             {
                 FeatureId = x.FeatureId,

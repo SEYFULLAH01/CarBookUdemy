@@ -20,7 +20,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.BrandHandlers
         }
         public async Task<List<GetBrandQueryResult>> Handle()
         {
-            var values = await _repository.GeAllAsync();
+            var values = await _repository.GetAllAsync();
             return values.Select(x => new GetBrandQueryResult
             {
                 BrandId = x.BrandId,

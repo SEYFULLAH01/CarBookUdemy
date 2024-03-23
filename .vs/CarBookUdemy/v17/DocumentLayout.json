@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\services\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\services\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\core\\carbookudemy.application\\carbookudemy.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5CE05D42-7D0C-4235-9B38-1E77FC736E3F}|Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj|solutionrelative:core\\carbookudemy.application\\carbookudemy.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|solutionrelative:presentation\\carbookudemy.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7412941-490A-4575-BEF4-C9321CEC071B}|Presentation\\CarBookUdemy.WebApi\\CarBookUdemy.WebApi.csproj|c:\\users\\seyfullah\\desktop\\csharpdemos\\carbookudemy\\carbookudemy\\presentation\\carbookudemy.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAADoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:25:10.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarBookUdemy.Application",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\CarBookUdemy.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-21T19:15:48.205Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -81,27 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceRegistiration.cs",
-              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Services\\ServiceRegistiration.cs",
-              "RelativeDocumentMoniker": "Core\\CarBookUdemy.Application\\Services\\ServiceRegistiration.cs",
-              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Core\\CarBookUdemy.Application\\Services\\ServiceRegistiration.cs",
-              "RelativeToolTip": "Core\\CarBookUdemy.Application\\Services\\ServiceRegistiration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:06:32.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FeaturesController.cs",
               "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\FeaturesController.cs",
               "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\FeaturesController.cs",
               "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\FeaturesController.cs",
               "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\FeaturesController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAmwC4AAAAwAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T18:35:58.284Z",
+              "WhenOpened": "2024-03-23T15:31:12.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FooterAddressController.cs",
+              "DocumentMoniker": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBookUdemy.WebApi\\Controllers\\FooterAddressController.cs",
+              "ToolTip": "C:\\Users\\SEYFULLAH\\Desktop\\csharpdemos\\CarBookUdemy\\CarBookUdemy\\Presentation\\CarBookUdemy.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeToolTip": "Presentation\\CarBookUdemy.WebApi\\Controllers\\FooterAddressController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:31:06.657Z",
               "EditorCaption": ""
             }
           ]

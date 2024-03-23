@@ -15,7 +15,7 @@ namespace CarBookUdemy.Application.Features.Mediator.Handlers.FeatureHandlers
         private readonly IRepository<Feature> _repository;
         public async Task Handle(UpdateFeatureCommand request, CancellationToken cancellationToken)
         {
-            var values = await _repository.GeByIdAsync(request.FeatureId);
+            var values = await _repository.GetByIdAsync(request.FeatureId);
             values.Name = request.Name;
             await _repository.UpdateAsync(values);
         }

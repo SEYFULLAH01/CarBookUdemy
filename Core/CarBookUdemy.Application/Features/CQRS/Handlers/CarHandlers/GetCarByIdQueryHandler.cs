@@ -20,7 +20,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.CarHandlers
         }
         public async Task<GetCarByIdQueryResult> Handle(GetCarByIdQuery query)
         {
-            var values = await _repository.GeByIdAsync(query.Id);
+            var values = await _repository.GetByIdAsync(query.Id);
             return new GetCarByIdQueryResult
             {
                 CarId = values.CarId,

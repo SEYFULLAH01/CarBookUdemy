@@ -20,7 +20,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.BrandHandlers
         }
         public async Task Handle(RemoveBrandCommand command)
         {
-            var value = await _repository.GeByIdAsync(command.Id);
+            var value = await _repository.GetByIdAsync(command.Id);
             await _repository.RemoveAsync(value);
         }
     }

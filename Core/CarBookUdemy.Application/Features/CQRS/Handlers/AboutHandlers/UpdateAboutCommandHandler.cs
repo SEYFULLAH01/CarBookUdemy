@@ -19,7 +19,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.AboutHandlers
         }
         public async Task Handle(UpdateAboutCommand command)
         {
-            var values = await _repository.GeByIdAsync(command.AboutId);
+            var values = await _repository.GetByIdAsync(command.AboutId);
             values.Description = command.Description;
             values.Title = command.Title;
             values.ImageUrl = command.ImageUrl;

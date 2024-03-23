@@ -22,7 +22,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.BannerHandlers
         }
         public async Task<GetBannerByIdQueryResult> Handle(GetBannerByIdQuery query)
         {
-            var values = await _repository.GeByIdAsync(query.Id);
+            var values = await _repository.GetByIdAsync(query.Id);
             return new GetBannerByIdQueryResult
             {
                 BannerId = values.BannerId,

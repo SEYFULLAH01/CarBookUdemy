@@ -27,7 +27,7 @@ namespace CarBookUdemy.Application.Features.Mediator.Handlers.FeatureHandlers
 
         public async Task<GetFeatureByIdQueryResult> Handle(GetFeatureByIdQuery request, CancellationToken cancellationToken)
         {
-            var values = await _repository.GeByIdAsync(request.Id);
+            var values = await _repository.GetByIdAsync(request.Id);
             return new GetFeatureByIdQueryResult
             {
                 FeatureId = values.FeatureId,

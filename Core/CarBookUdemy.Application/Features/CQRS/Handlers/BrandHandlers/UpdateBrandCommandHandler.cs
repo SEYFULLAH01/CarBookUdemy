@@ -20,7 +20,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.BrandHandlers
         }
         public async Task Handle(UpdateBrandCommand command)
         {
-            var values = await _repository.GeByIdAsync(command.BrandId);
+            var values = await _repository.GetByIdAsync(command.BrandId);
             values.Name=command.Name;
             await _repository.UpdateAsync(values);
         }

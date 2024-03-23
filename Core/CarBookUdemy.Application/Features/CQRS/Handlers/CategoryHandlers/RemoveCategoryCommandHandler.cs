@@ -19,7 +19,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.CategoryHandlers
         }
         public async Task Handle(RemoveCategoryCommand command)
         {
-            var value = await _repository.GeByIdAsync(command.Id);
+            var value = await _repository.GetByIdAsync(command.Id);
             await _repository.RemoveAsync(value);
         }
     }

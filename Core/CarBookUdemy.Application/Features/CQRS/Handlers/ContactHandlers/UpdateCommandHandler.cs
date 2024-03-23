@@ -19,7 +19,7 @@ namespace CarBookUdemy.Application.Features.CQRS.Handlers.ContactHandlers
         }
         public async Task Handle(UpdateContactCommand command)
         {
-            var values = await _repository.GeByIdAsync(command.ContactId);
+            var values = await _repository.GetByIdAsync(command.ContactId);
             values.Name = command.Name;
             await _repository.UpdateAsync(values);
         }
