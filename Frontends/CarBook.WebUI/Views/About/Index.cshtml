@@ -2,4 +2,4 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/UILayout/Index.cshtml";
 }
-<h1>Hakkımda</h1>
+@await Component.InvokeAsync("_AboutUsComponentPartial")

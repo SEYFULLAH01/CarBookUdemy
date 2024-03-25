@@ -29,3 +29,8 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBo
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.pdb
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.genruntimeconfig.cache
 C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\obj\Debug\net8.0\ref\CarBook.WebUI.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.csproj.AssemblyReference.cache
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Dto.dll
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Dto.pdb
+C:\Users\SEYFULLAH\Desktop\csharpdemos\CarBookUdemy\CarBookUdemy\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook..7B7C417C.Up2Date
